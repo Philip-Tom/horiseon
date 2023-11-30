@@ -148,6 +148,14 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
+## Task 1 screen shots
+![Landig page](<Screenshot 2023-11-30 113841.png>)
+<br>
+![Search Engine Optimization](<Screenshot 2023-11-30 113856.png>)
+
+
+
+
 ## Review
 
 You are required to submit the following for review:
